@@ -27,7 +27,7 @@ export default function About() {
                         <h2 className="title">About Event</h2>
                         <ul className="breadcrumb justify-content-center">
                             <li className="breadcrumb-item"><a href="index-2.html">Home</a></li>
-                            <li className="breadcrumb-item active" aria-current="page">About Events in Home Page</li>
+                            <li className="breadcrumb-item active" aria-current="page"> About Events ont he gorund About Events ont he gorund</li>
                         </ul>
                     </div>
                     {/* <!-- Page Banner Content End --> */}
